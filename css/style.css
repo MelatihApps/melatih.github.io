@@ -20436,7 +20436,7 @@ a .h_head:hover {
 
 .t_left {
   left: 60px;
-  bottom: 120px;
+  bottom: 50px;
 }
 
 /*============ section-5 css===========*/
@@ -20486,10 +20486,6 @@ a .h_head:hover {
 .section-5.active .section_one_img .phon_img {
   -webkit-animation: fadeIn 0.9s both 1.5s;
           animation: fadeIn 0.9s both 1.5s;
-}
-.t_left {
-  left: 60px;
-  bottom: 120px;
 }
 
 /*============ section-6 css===========*/

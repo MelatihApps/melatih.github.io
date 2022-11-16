@@ -20494,8 +20494,7 @@ a .h_head:hover {
 
 /*============ section-6 css===========*/
 .section-6 .pp_block {
-  left: 0;
-  right: auto;
+  right: 0;
   top: 400px;
 }
 .pp_contact_info .pp_contact_item {
